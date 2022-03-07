@@ -1,0 +1,32 @@
+body,p{
+    margin: 0;
+}
+
+
+header{
+    text-align: center;
+    
+}
+
+.web {
+
+    width: 800px;
+    margin:  auto;
+    background-color: #ffffff;
+    padding: 0 10px;
+    text-align: justify;
+
+}
+
+body{
+    
+    font: 16px/28px arial, sans-serif;
+    /* 16 ukuran font, 28 untuk line height ny atau jarak antar baris*/
+    background-color: #eaeaea;
+    color: #333;
+
+}
+
+.huruf::first-letter{
+    font-size: 35px;
+}
